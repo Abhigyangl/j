@@ -11,7 +11,7 @@
  <groupId>org.springframework.boot</groupId>
 
  <artifactId>spring-boot-starter-parent</artifactId>
- <packaging>war</packaging>
+
 
  <version>2.7.3</version>
 
@@ -22,6 +22,7 @@
  <groupId>com.example</groupId>
 
  <artifactId>TCAH2</artifactId>
+  <packaging>war</packaging>
 
  <version>0.0.1-SNAPSHOT</version>
 
